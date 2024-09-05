@@ -86,11 +86,10 @@
 
 							<h2 class="major">GDM BOOKS</h2>
 								<span class="image main"><img src="images/gdm-books.png" alt="" /></span>
-								<p>Text Dragon is an SMS sending system designed to distribute announcements and important updates 
-								to the residents of Barangay. By leveraging the Buka API, it ensures efficient and reliable 
-								delivery of messages, making it an essential tool for community communication and engagement. 
-								This system enhances the ability of local authorities to keep citizens informed about various matters, 
-								ranging from emergency alerts to community events.</p>
+								<p>GDM Books is a web application for managing book collections. 
+								It allows users to view, add, update, and delete books from a MongoDB database. 
+								The frontend is built with React, and the backend is powered by Node.js, Express, 
+								and MongoDB.</p>
 							
 							</article>
 						
